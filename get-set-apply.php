@@ -30,7 +30,7 @@
         }
 
         function getMethodMySelf(){
-            return"user name ". $this->name."<br>"."Birth day = ".$this->birthday_date."<br>".$this->name. " is Birthday place = ".$this->birthday_place."<br>".$this->name. " her phone Number = ".$this->cell."<br>".$this->name. " her email = ".$this->email."<br>".$this->name. " is website = ".$this->website."<br>".$this->name. "'s address = ".$this->address."<br>".$this->name. "'s father name = ".$this->father_name."<br>".$this->name. "'s mother name = ".$this->mother_name."<br>".$this->name. "'s brother name = ".$this->brother_name."<br>".$this->name. "'s sister name = ".$this->sister_name."<br>";
+            return"user name ". $this->name."<br>"."Birth day = ".$this->birthday_date."<br>".$this->name. " is Birthday place = ".$this->birthday_place."<br>".$this->name. " her phone Number = ".$this->cell."<br>".$this->name. "'s email = ".$this->email."<br>".$this->name. " is website = ".$this->website."<br>".$this->name. "'s address = ".$this->address."<br>".$this->name. "'s father name = ".$this->father_name."<br>".$this->name. "'s mother name = ".$this->mother_name."<br>".$this->name. "'s brother name = ".$this->brother_name."<br>".$this->name. "'s sister name = ".$this->sister_name."<br>";
         }
     }
 ?>
